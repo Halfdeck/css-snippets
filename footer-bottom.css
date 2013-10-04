@@ -1,10 +1,23 @@
 /**
 
-display footer at the bottom of the page using CSS
+- Display footer at the bottom of the page using CSS. 
+- FOOTER is wrapped in a bootstrap .container class
 
 **/
 
-#footer {
+footer {
     position:absolute;
     bottom:0;
 }
+
+/***
+
+HTML
+
+**/
+
+<div class='container'>
+    <footer>
+        ............
+    </footer>
+</div>
