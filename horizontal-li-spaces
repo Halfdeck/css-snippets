@@ -1,0 +1,19 @@
+/**
+
+Remove spaces between horizontal LI items.
+
+Using display:inline-block creates spaces that are hard to get rid of.
+
+Con: Clearfix is needed after the list.
+
+**/
+
+UL {
+  list-style:none;
+  padding-left:0;
+}
+
+LI {
+  position:relative;
+  float:left;
+}
