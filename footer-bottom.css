@@ -3,6 +3,8 @@
 - Display footer at the bottom of the page using CSS. 
 - FOOTER is wrapped in a bootstrap .container class
 
+Issue: this solution doesn't work if the page content exceeds window height
+
 **/
 
 footer {
