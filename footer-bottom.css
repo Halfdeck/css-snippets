@@ -1,0 +1,10 @@
+/**
+
+display footer at the bottom of the page using CSS
+
+**/
+
+#footer {
+    position:absolute;
+    bottom:0;
+}
