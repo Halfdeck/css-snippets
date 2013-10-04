@@ -1,0 +1,15 @@
+/**
+
+force right and left columns to be equal heights
+
+**/
+
+.right-col {
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.left-col {
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
